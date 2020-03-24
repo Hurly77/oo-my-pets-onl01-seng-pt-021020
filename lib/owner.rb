@@ -47,7 +47,11 @@ def buy_dog(name)
 end
 
 def walk_dogs
+<<<<<<< HEAD
 dogs.map {|dog| dog.mood = "happy"}
+=======
+# dogs.map {|dog| dog.mood = "happy"}
+>>>>>>> a3b1c05980502c89f0a6abce3d21ef4242907163
 end
 
 def feed_cats
